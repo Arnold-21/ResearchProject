@@ -1,0 +1,8 @@
+Changing the last 3 layers: shape 1024
+Changing the last 8 layers: shape 1024
+Changing the last 11 layers: shape 1024
+Changing the last 14 layers: shape 512
+Changing the last 16 layers: shape 512
+Changing the last 21 layers: shape 512
+Changing the last 27 layers: shape 512
+Changing the last 33 layers: shape 512
