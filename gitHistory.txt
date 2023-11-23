@@ -1,0 +1,29 @@
+commit 69ee9dfd00b8ae5c3e1a11ef1f9a57875fd51fb7 (HEAD -> main, origin/main, origin/HEAD)
+Author: 916_Sali_Arnold <91786230+Arnold-21@users.noreply.github.com>
+Date:   Thu Nov 23 12:05:15 2023 +0200
+
+    Finishing the chapters needed
+
+commit d4c0d0dbe341081512cae25b396fa7d84771c15d
+Author: 916_Sali_Arnold <91786230+Arnold-21@users.noreply.github.com>
+Date:   Tue Nov 21 19:45:17 2023 +0200
+
+    Running the experiment and 1-2 for the docs written
+
+commit eb3c26f995e45fb6c3fbecbc7617afb0ce839934
+Author: 916_Sali_Arnold <91786230+Arnold-21@users.noreply.github.com>
+Date:   Thu Nov 16 11:11:44 2023 +0200
+
+    Start of doing the environment to run the experiments
+
+commit fa45a01e43dce6b25a289fd1e78d49e6fed77bac
+Author: 916_Sali_Arnold <91786230+Arnold-21@users.noreply.github.com>
+Date:   Wed Nov 15 19:41:13 2023 +0200
+
+    Getting the mobilenet model and the asl dataset from kaddle
+
+commit 6423ed0eece5e5e8bbdc8c875423bb717684efb6
+Author: 916_Sali_Arnold <91786230+Arnold-21@users.noreply.github.com>
+Date:   Tue Nov 14 11:09:32 2023 +0200
+
+    Initial commit
